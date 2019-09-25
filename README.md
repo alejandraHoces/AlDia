@@ -3,7 +3,7 @@
 Al día ofrece asesoría financiera para solucionar deudas atrasadas. Buscan generar impacto en sus clientes, mediante la asesoría personalizada, educación financiera y hábitos de ahorro.
 
 Nuestro reto era crear un landing page que pueda atraer a nuevos clientes potenciales, alentarlos a usar nuestro simulador y generar confianza.
-![al día]()
+![al día](https://raw.githubusercontent.com/alejandraHoces/AlDia/master/aldia.png)
 ### Objetivos
 - Presentar la oferta de una manera comprensible.
 - Abordar las necesidades más cruciales de los usuarios de AlDía.
