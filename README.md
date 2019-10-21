@@ -24,8 +24,9 @@ Se realizó entrevistas a diferentes usuarios encontrando muchas necesidades y p
 
 Analizamos las páginas de las principales competencias de Al día y rescatamos las mejores prácticas utilizadas, procedimos a dibujar en papel un prototipo de baja fidelidad, luego de validarlo procedimos a diseñarlo en Figma utilizando la metodología Atomic Desing la cual nos ayudó a optimizar nuestro diseño, complementándose así con nuestros objetivos comerciales.
 
+💻 [Mira el Prototipo](https://marvelapp.com/6764c20/screen/61300887)
 ![al día](https://raw.githubusercontent.com/alejandraHoces/AlDia/master/pruebaaldia.png)
-💻 [Mira el Prototipo en funcionamiento](https://marvelapp.com/6764c20/screen/61300887)
+
 
 
 
